@@ -359,7 +359,7 @@ section header h2 {
     padding: 7px 0 7px;
 }
 
-.alert .success {
+.alert.success {
     color: #3C763D;
     background-color: #DFF0D8;
     border-color: #D0E9C6;
